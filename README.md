@@ -1,6 +1,6 @@
 ### Oii! Sou Amanda!
 
-## 𑄝੭ About Me
+## 𑄝੭ Sobre mim
 
 Sou desenvolvedora Back-end, formada em Análise e Desenvolvimento de Sistemas, com foco na construção de aplicações organizadas, funcionais e bem estruturadas.
 
@@ -12,7 +12,7 @@ Atualmente, estou aprimorando meus conhecimentos por meio de projetos práticos,
 
 <div align="center"> <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,html,css,js" /> </div>
 
-## 𑄝੭ Main Focus
+## 𑄝੭ Foco principal
 
 <p align="center"> Desenvolvimento Back-end • REST APIs • SQL • Programação Orientada a Objetos </p>
 
