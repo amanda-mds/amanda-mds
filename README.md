@@ -14,8 +14,8 @@ Atualmente, estou aprimorando meus conhecimentos por meio de projetos práticos,
 
 ## 𑄝੭ Main Focus
 
-<p align="center"> Backend Development • REST APIs • SQL • Object-Oriented Programming </p>
+<p align="center"> Desenvolvimento Back-end • REST APIs • SQL • Programação Orientada a Objetos </p>
 
 <div align="center"> <img src="https://raw.githubusercontent.com/amndadev/amndadev/output/snake.svg" alt="Snake animation" /> </div>
 
-<p align="center"> ₍^. .^₎⟆ Obrigada por visitar o meu perfil! ₍^. .^₎⟆ </p>
+<p align="center"> ₍^. .^₎⟆ Obrigada por visitar meu perfil! ₍^. .^₎⟆ </p>
