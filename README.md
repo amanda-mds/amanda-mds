@@ -10,7 +10,7 @@ Atualmente, estou aprimorando meus conhecimentos por meio de projetos práticos,
 
 ## 𑄝੭ Tech Stack
 
-<div align="center"> <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,html,css,js" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github" /> </div>
 
 ## 𑄝੭ Foco principal
 
