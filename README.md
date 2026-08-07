@@ -1,21 +1,19 @@
-### Oii! Sou Amanda!
+### Oii, sou a Amanda!
 
-## 𑄝੭ Sobre mim
+Sou desenvolvedora Back-end, formada em Análise e Desenvolvimento de Sistemas, com foco em Java e Python. Gosto de entender o que acontece por trás das telas e de transformar ideias em aplicações funcionais, organizadas e bem estruturadas. Tenho bastante interesse em lógica de programação e em todo o processo envolvido na construção de um sistema.
 
-Sou desenvolvedora Back-end, formada em Análise e Desenvolvimento de Sistemas, com foco na construção de aplicações organizadas, funcionais e bem estruturadas.
+Atualmente, tenho direcionado meus estudos e projetos para Java, Spring Boot, APIs REST, banco de dados e Programação Orientada a Objetos. Busco aprender não apenas como escrever o código, mas também como organizar cada parte da aplicação e encontrar soluções que façam sentido.
 
-Tenho direcionado meus estudos e projetos para o desenvolvimento de APIs, integração com bancos de dados, programação orientada a objetos e boas práticas de desenvolvimento. Busco escrever código limpo, manter projetos bem organizados e compreender cada etapa da construção de um sistema.
+De vez em quando, também brinco de Front-end com HTML e CSS porque, apesar de meu foco estar no Back-end, confesso que gosto de brincar um pouco com o visual e ver o projeto ganhando forma na tela.
 
-Atualmente, estou aprimorando meus conhecimentos por meio de projetos práticos, com o objetivo de fortalecer minha carreira em tecnologia e contribuir para o desenvolvimento de soluções eficientes, confiáveis e relevantes.
+---
 
-## 𑄝੭ Tech Stack
+### Linguagens e tecnologias
 
-<div align="center"> <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github" /> </div>
-
-## 𑄝੭ Foco principal
-
-<p align="center"> Desenvolvimento Back-end • REST APIs • SQL • Programação Orientada a Objetos </p>
-
-<div align="center"> <img src="https://raw.githubusercontent.com/amndadev/amndadev/output/snake.svg" alt="Snake animation" /> </div>
-
-<p align="center"> ₍^. .^₎⟆ Obrigada por visitar meu perfil! ₍^. .^₎⟆ </p>
+<div align="left">
+  <img
+    src="https://skillicons.dev/icons?i=java,python,spring,mysql,postgres,html,css,js,git,github"
+    height="35"
+    alt="Tecnologias"
+  />
+</div>
