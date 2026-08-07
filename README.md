@@ -1,4 +1,4 @@
-### Oii, sou a Amanda!
+### Oii, sou a Amanda! 𑄝੭
 
 Sou desenvolvedora Back-end, formada em Análise e Desenvolvimento de Sistemas, com foco em Java e Python. Gosto de entender o que acontece por trás das telas e de transformar ideias em aplicações funcionais, organizadas e bem estruturadas. Tenho bastante interesse em lógica de programação e em todo o processo envolvido na construção de um sistema.
 
