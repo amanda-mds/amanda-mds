@@ -4,7 +4,7 @@ Sou desenvolvedora Back-end, formada em Análise e Desenvolvimento de Sistemas, 
 
 Atualmente, tenho direcionado meus estudos e projetos para Java, Spring Boot, APIs REST, banco de dados e Programação Orientada a Objetos. Busco aprender não apenas como escrever o código, mas também como organizar cada parte da aplicação e encontrar soluções que façam sentido.
 
-De vez em quando, também brinco de Front-end com HTML e CSS porque, apesar de meu foco estar no Back-end, confesso que ver o projeto ganhando forma na tela também é muito legal.
+De vez em quando, também brinco de Front-end com HTML e CSS porque, apesar de meu foco estar no Back-end, confesso que ver o projeto ganhando forma na tela também é bem legal.
 
 ---
 
