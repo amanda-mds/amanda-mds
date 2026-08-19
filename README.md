@@ -1,19 +1,31 @@
-### Oii, sou a Amanda! 𑄝੭
+### Oii, sou a Amanda!
 
-Sou desenvolvedora Back-end, formada em Análise e Desenvolvimento de Sistemas, com foco em Java e Python. Gosto de entender o que acontece por trás das telas e de transformar ideias em aplicações funcionais, organizadas e bem estruturadas. Tenho bastante interesse em lógica de programação e em todo o processo envolvido na construção de um sistema.
+## Sobre mim
 
-Atualmente, tenho direcionado meus estudos e projetos para Java, Spring Boot, APIs REST, banco de dados e Programação Orientada a Objetos. Busco aprender não apenas como escrever o código, mas também como organizar cada parte da aplicação e encontrar soluções que façam sentido.
+Sou formada em Análise e Desenvolvimento de Sistemas e concentro meus estudos e projetos no desenvolvimento back-end com Java e Python.
 
-De vez em quando, também brinco de Front-end com HTML e CSS porque, apesar de meu foco estar no Back-end, confesso que ver o projeto ganhando forma na tela também é bem legal.
+Gosto de compreender as regras por trás de cada sistema e transformá-las em código claro, bem estruturado e com propósito. Atualmente, estou aprofundando meus conhecimentos em Spring Boot, APIs REST, bancos de dados relacionais e Programação Orientada a Objetos.
 
----
+Também tenho conhecimentos em desenvolvimento front-end com HTML, CSS e JavaScript, o que me ajuda a compreender a aplicação de ponta a ponta.
 
-### Linguagens e tecnologias
+## Tecnologias e ferramentas
 
 <div align="left">
   <img
     src="https://skillicons.dev/icons?i=java,python,spring,mysql,postgres,html,css,js,git,github"
-    height="35"
+    height="43"
     alt="Tecnologias"
   />
 </div>
+
+## Atualmente 
+
+- Desenvolvendo projetos para consolidar meus conhecimentos em Java, Python e Spring Boot.
+
+- Estudando criação de APIs REST e persistência de dados.
+
+- Aprimorando boas práticas de organização, legibilidade e manutenção de código.
+
+## O que você encontrará por aqui
+
+Projetos acadêmicos e pessoais que registram minha evolução como desenvolvedora, com foco em soluções back-end e aplicações web.
