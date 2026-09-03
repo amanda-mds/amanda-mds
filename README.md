@@ -10,7 +10,7 @@ Gosto de compreender as regras por trás de cada sistema e transformá-las em c�
 
 <div align="left">
   <img
-    src="https://skillicons.dev/icons?i=java,python,spring,mysql,postgres,html,css,js,git,github"
+    src="https://skillicons.dev/icons?i=java,python,spring,mysql,postgres,git,github"
     height="43"
     alt="Tecnologias"
   />
