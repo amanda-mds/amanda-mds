@@ -6,8 +6,6 @@ Sou formada em Análise e Desenvolvimento de Sistemas e concentro meus estudos e
 
 Gosto de compreender as regras por trás de cada sistema e transformá-las em código claro, bem estruturado e com propósito. Atualmente, estou aprofundando meus conhecimentos em Spring Boot, APIs REST, bancos de dados relacionais e Programação Orientada a Objetos.
 
-Também tenho conhecimentos em desenvolvimento front-end com HTML, CSS e JavaScript, o que me ajuda a compreender a aplicação de ponta a ponta.
-
 ## Tecnologias e ferramentas
 
 <div align="left">
