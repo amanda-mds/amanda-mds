@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Sou formada em Análise e Desenvolvimento de Sistemas e concentro meus estudos e projetos em análise de dados e desenvolvimento back-end, trabalhando com Python, SQL e Java.
+Sou formada em Análise e Desenvolvimento de Sistemas e concentro meus estudos e projetos em análise de dados e automação, trabalhando com Python, SQL e Power BI. Também tenho bom conhecimento em desenvolvimento back-end com Java e Spring Boot.
 
 Gosto de entender o que os dados dizem e transformá-los em informação clara e útil para a tomada de decisão. Atualmente, estou aprofundando meus conhecimentos em tratamento e análise de dados com Python e Pandas, consultas SQL, modelagem de dados e criação de dashboards no Power BI, sem deixar de lado o back-end com Spring Boot e APIs REST.
 
@@ -23,9 +23,9 @@ Gosto de entender o que os dados dizem e transformá-los em informação clara e
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## Atualmente
-- Desenvolvendo projetos de análise de dados com Python, SQL e Power BI.
+- Desenvolvendo uma análise de custos da construção civil em São Paulo, com dados públicos do SINAPI e do INCC e dashboard no Power BI.
+- Desenvolvendo uma automação em Python para tratar planilhas e gerar relatórios em Excel.
 - Estudando SQL avançado (joins, agregações e window functions) e modelagem de dados para BI.
-- Aprendendo fundamentos de computação em nuvem com AWS.
 - Aprimorando boas práticas de organização, legibilidade e documentação de código.
 
 ## Contato
